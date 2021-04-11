@@ -7,3 +7,4 @@ Video 12 12 Keeping the user logged in
 Video 13 Creating a posts endpoint
 Video 14 Making a request to posts
 Video 15 Using dio interceptors
+16 Deleting a token when logging out
